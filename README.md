@@ -22,6 +22,7 @@ In this challenge, I reinforced the concept of image manipulation
 
 ## Author
 
+- Website - [QR Code](https://joatancarlos.github.io/qr-code-challenge/)
 - LinkedIn - [Joatan Feitosa](www.linkedin.com/in/joatan-feitosa
 )
 - Frontend Mentor - [@Joatancarlos](https://www.frontendmentor.io/profile/Joatancarlos)
